@@ -4,12 +4,11 @@ Macro Factor Rotation Tracker — Data Enrichment
 Pulls missing FRED series, engineers macro regimes,
 tags event dates, computes sector returns at T+1/T+5/T+20.
 
-Run: python macro_enriched.py
 Outputs (in data/):
   macro_events.csv       — each Fed/CPI/GDP/Jobs event with date + value
   sector_event_returns.csv — sector returns T+1/T+5/T+20 after each event
   regime_daily.csv       — daily data tagged with macro regime label
-  macro_full.csv         — all macro series merged, ready for Power BI
+  macro_full.csv         — all macro series merged
 """
 
 import os, logging
@@ -295,7 +294,7 @@ def compute_event_returns(events: pd.DataFrame, equities: pd.DataFrame) -> pd.Da
 def build_regime_daily(macro_full: pd.DataFrame, equities: pd.DataFrame) -> pd.DataFrame:
     """
     One row per trading day per sector with regime labels attached.
-    This powers the regime line charts in Power BI.
+    This powers the regime line charts.
     """
     macro_slim = macro_full[[
         c for c in macro_full.columns
