@@ -1,0 +1,58 @@
+date,event_type,value,change,label
+2024-04-15,Yield Curve,-0.3,,Yield Curve Inversion End
+2024-05-31,Jobs Report,78.0,78.0,Payrolls +78K
+2024-06-30,Jobs Report,87.0,87.0,Payrolls +87K
+2024-07-31,Jobs Report,53.0,53.0,Payrolls +53K
+2024-08-27,Yield Curve,0.0,-1.0,Yield Curve Inversion End
+2024-08-31,Jobs Report,9.0,9.0,Payrolls +9K
+2024-09-03,Yield Curve,-0.04,1.0,Yield Curve Inversion Start
+2024-09-04,Yield Curve,0.01,-1.0,Yield Curve Inversion End
+2024-09-05,Yield Curve,-0.02,1.0,Yield Curve Inversion Start
+2024-09-06,Yield Curve,0.06,-1.0,Yield Curve Inversion End
+2024-09-19,Fed Rate Change,4.83,-0.5,Fed Cut 50bps
+2024-09-30,Jobs Report,155.0,155.0,Payrolls +155K
+2024-09-30,GDP Release,3.3,-0.3,GDP 3.3% QoQ
+2024-10-31,Jobs Report,33.0,33.0,Payrolls +33K
+2024-11-08,Fed Rate Change,4.58,-0.25,Fed Cut 25bps
+2024-11-30,Jobs Report,134.0,134.0,Payrolls +134K
+2024-12-19,Fed Rate Change,4.33,-0.25,Fed Cut 25bps
+2024-12-31,GDP Release,1.9,-1.4,GDP 1.9% QoQ
+2024-12-31,Jobs Report,237.0,237.0,Payrolls +237K
+2025-01-31,Jobs Report,-48.0,-48.0,Payrolls -48K
+2025-02-28,Jobs Report,42.0,42.0,Payrolls +42K
+2025-03-31,GDP Release,-0.6,-2.5,GDP -0.6% QoQ
+2025-03-31,Jobs Report,67.0,67.0,Payrolls +67K
+2025-04-30,CPI Release,2.33,0.162,CPI 2.3% YoY
+2025-04-30,Jobs Report,108.0,108.0,Payrolls +108K
+2025-05-31,CPI Release,2.38,0.099,CPI 2.4% YoY
+2025-05-31,Jobs Report,13.0,13.0,Payrolls +13K
+2025-06-30,CPI Release,2.68,0.254,CPI 2.7% YoY
+2025-06-30,GDP Release,3.8,4.4,GDP 3.8% QoQ
+2025-06-30,Jobs Report,-20.0,-20.0,Payrolls -20K
+2025-07-31,Jobs Report,64.0,64.0,Payrolls +64K
+2025-07-31,CPI Release,2.74,0.228,CPI 2.7% YoY
+2025-08-31,Jobs Report,-70.0,-70.0,Payrolls -70K
+2025-08-31,CPI Release,2.94,0.348,CPI 2.9% YoY
+2025-09-18,Fed Rate Change,4.08,-0.25,Fed Cut 25bps
+2025-09-30,CPI Release,3.02,0.295,CPI 3.0% YoY
+2025-09-30,GDP Release,4.4,0.6,GDP 4.4% QoQ
+2025-09-30,Jobs Report,76.0,76.0,Payrolls +76K
+2025-10-30,Fed Rate Change,3.87,-0.25,Fed Cut 25bps
+2025-10-31,CPI Release,2.73,0.0,CPI 2.7% YoY
+2025-10-31,Jobs Report,-140.0,-140.0,Payrolls -140K
+2025-11-30,CPI Release,2.7,0.252,CPI 2.7% YoY
+2025-11-30,Jobs Report,41.0,41.0,Payrolls +41K
+2025-12-11,Fed Rate Change,3.64,-0.25,Fed Cut 25bps
+2025-12-31,CPI Release,2.65,0.298,CPI 2.7% YoY
+2025-12-31,GDP Release,0.5,-3.9,GDP 0.5% QoQ
+2025-12-31,Jobs Report,-17.0,-17.0,Payrolls -17K
+2026-01-31,Jobs Report,160.0,160.0,Payrolls +160K
+2026-01-31,CPI Release,2.39,0.171,CPI 2.4% YoY
+2026-02-28,Jobs Report,-133.0,-133.0,Payrolls -133K
+2026-02-28,CPI Release,2.43,0.267,CPI 2.4% YoY
+2026-03-31,GDP Release,0.5,0.0,GDP 0.5% QoQ
+2026-03-31,Jobs Report,178.0,178.0,Payrolls +178K
+2026-03-31,CPI Release,3.29,0.865,CPI 3.3% YoY
+2026-04-30,Jobs Report,0.0,0.0,Payrolls +0K
+2026-04-30,CPI Release,3.12,0.0,CPI 3.1% YoY
+2026-06-30,GDP Release,0.5,0.0,GDP 0.5% QoQ
